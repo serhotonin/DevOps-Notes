@@ -51,7 +51,8 @@ Scripti indirip çalıştır:
 ```bash
 curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
 chmod +x wireguard-install.sh
-./wireguard-install.sh
+./wireguard-install.sh```
+
 ````
 
 Karşına çıkacak sorular ve doğru cevaplar 👇
