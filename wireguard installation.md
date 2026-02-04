@@ -77,8 +77,6 @@ Enter → geç (doğruysa)
   eth0
   ```
 
-AWS EC2’de varsayılan network interface’tir.
-
 ---
 
 ### C. WireGuard Interface Name
@@ -97,7 +95,6 @@ AWS EC2’de varsayılan network interface’tir.
 VPN tüneli içinde kullanılacak private IP bloğu.
 
 * Çakışma olmaması için rastgele bir subnet seç
-* RFC1918 aralığında olmalı
 
 **Örnek:**
 
