@@ -1,7 +1,7 @@
 
 
 
-# 🛡️ AWS WireGuard VPN Kurulum Rehberi (DevSecOps)
+# 🛡️ AWS WireGuard VPN Kurulum Rehberi (DevOps)
 
 > **Bağlam**
 >
