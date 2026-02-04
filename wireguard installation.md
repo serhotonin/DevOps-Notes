@@ -383,10 +383,6 @@ wg
 * `transfer rx/tx`
 * `latest handshake`
 
-🚀 VPN ayağa kalktı, güvenli erişim hazır.
 
-```
 
----
 
-```
