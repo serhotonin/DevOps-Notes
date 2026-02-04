@@ -1,7 +1,7 @@
 
 
 
-# 🛡️ AWS WireGuard VPN Kurulum Rehberi (DevOps)
+# 🛡️ AWS WireGuard VPN Kurulum Rehberi (DevSecOps)
 
 > **Bağlam**
 >
@@ -52,8 +52,6 @@ Scripti indirip çalıştır:
 curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
-```
-
 ````
 
 Karşına çıkacak sorular ve doğru cevaplar 👇
@@ -385,6 +383,10 @@ wg
 * `transfer rx/tx`
 * `latest handshake`
 
+🚀 VPN ayağa kalktı, güvenli erişim hazır.
 
+```
 
+---
 
+```
