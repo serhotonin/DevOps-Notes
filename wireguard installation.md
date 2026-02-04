@@ -1,7 +1,7 @@
 
 
-````md
-# 🛡️ AWS WireGuard VPN Kurulum Rehberi (DevSecOps)
+
+# 🛡️ AWS WireGuard VPN Kurulum Rehberi (DevOps)
 
 > **Bağlam**
 >
@@ -385,6 +385,6 @@ wg
 * `transfer rx/tx`
 * `latest handshake`
 
-🚀 VPN ayağa kalktı, güvenli erişim hazır.
+
 
 
