@@ -54,7 +54,7 @@ chmod +x wireguard-install.sh
 ./wireguard-install.sh
 ````
 
-Karşına çıkacak sorular ve doğru cevaplar 👇
+Karşıma çıkacak sorular ve doğru cevaplar 👇
 
 ---
 
@@ -254,10 +254,6 @@ Bu ne yapar?
 
 * VPN client’larının **internete çıkmasını** sağlar (NAT)
 
-📌 **Not:**
-Notlarında *“POSTROUTING silinecek”* demişsin.
-
-**Sebep:**
 
 * Client’ların bu sunucu üzerinden internete çıkmasını istemiyorsan
 * Bu **MASQUERADE** kuralını kaldırırsın
